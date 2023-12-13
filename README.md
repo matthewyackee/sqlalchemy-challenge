@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 UofD Data Analysis Bootcamp Module 10 Challenge
 
-The files are: xxx.sql, xxx.sql, xxx.sql, and xxx.png; all are located in the directory labeled (data) located in the directory (xxx).
+The files are: app.py, xxx.sql, climate.ipynb, and xxx.png; all are located in the directory labeled (data) located in the directory (SurfsUp).
 
 I used the format provided by the Starter-Code files provided.
 
